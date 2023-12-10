@@ -6,7 +6,7 @@ Wamotopia is a pop-up city, collaborative cultural emergence, co-created by the 
 
 ## WACAs (Theme Camps)
 
-A Waca, at its heart, is burning man Theme Camp like, a Schilling Point, a vibe of positive-externality where the Wamo culture emergence happens that connect and develop deeper relationships with those you are aligned with. Where Wamo’s future oriented culture springs to life, brought into being by the gathering of Wamians. It's a sanctuary for connection, where Wamians converge to engage in various activities and events. It's a realm of self-expression and communal joy, a place where creativity and collaboration come alive.
+A Waca, at its heart, is burning man Theme Camp like, a Schilling Point, a vibe of positive-externality where the Wamo culture emergence happens that connect and develop deeper relationships with Wamians you are aligned with; where Wamo’s future oriented culture springs to life, brought into being by the gathering of Wamians. It's a sanctuary for connection, where Wamians converge to engage in various activities and events. It's a realm of self-expression and communal joy, a place where creativity and collaboration come alive.
 
 [Slay Moloch Theme Camp](Wacas/slay_moloch_camp_v0.8.md)
 
