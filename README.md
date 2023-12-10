@@ -1,1 +1,1 @@
-# wamotopia
+docs/wamotopia_v1.0.md
