@@ -1,4 +1,4 @@
-# Wamotopia Manifesto v1.0 alpha
+# Wamotopia Manifesto v1.0 alpha.1
 
 Wamotopia is a gathering at a pivotal crossroads in human history. We gather here not just to celebrate or reflect but to build a future-oriented culture, a consensus-driven approach to shaping tomorrow. Wamotopia is more than a gathering; it's a symposium of minds and hearts, a confluence of ideas and dreams, where each of us plays a crucial role in defining the trajectory of our collective journey.
 
