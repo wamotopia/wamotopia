@@ -1,4 +1,4 @@
-# Wamotopia Manifesto v1.0
+# Wamotopia Manifesto v1.0 alpha.1
 
 Wamotopia is a gathering at a pivotal crossroads in human history. We gather here not just to celebrate or reflect but to build a future-oriented culture, a consensus-driven approach to shaping tomorrow. Wamotopia is more than a gathering; it's a symposium of minds and hearts, a confluence of ideas and dreams, where each of us plays a crucial role in defining the trajectory of our collective journey.
 
@@ -8,7 +8,7 @@ We stand at a pivotal juncture in history, where the explosive growth of frontie
 
 Technological advancements, particularly in AGI, offer a tantalizing preview of a future that is more liberated and interconnected. However, this bright horizon is shadowed by urgent, pressing challenges that demand our immediate awareness and action. Amidst this backdrop of technological singularity and ideological evolution, we face urgent, multifaceted challenges like AI alignment, unchecked molochs, faltering leviathans, societal and ecological degradation, metacrisis, and the need for effective global coordination. In this defining moment for humanity, the future history of Earth is being written, and it is in our hands.
 
-## Our Responsibility
+## Our Mission
 
 As we embark on this quest, we must tread carefully, aware of the delicate balance that holds our world together. The prospect of a dystopian future, where technology and narratives overpower humanity or leads us astray, looms as a stark reminder of the responsibility that comes with creation. Our gathering at Wamotopia is a pledge – a pledge to steer our collective future towards the light of humanity and away from the shadows of doom.
 
