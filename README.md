@@ -6,6 +6,8 @@
 
 [Slay Moloch Theme Camp](slay_moloch_camp_v0.8.md)
 
+[Luminous Connections Theme Camp](luminous_connections_camp_v0.7.md)
+
 ## WAMO is CC0
 
 ---
