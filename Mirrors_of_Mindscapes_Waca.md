@@ -1,8 +1,6 @@
 # Mirrors of Mindscapes Waca
 ## TL;DR
-When see your own feelings and emotions and the fluctuations of your state of mind, you start seeing reality in a more and more phenomenology way. You understand everything is constructed by its environment. 
-
-If this is you, join us.
+When see your own feelings and emotions and the fluctuations of your state of mind, you start seeing reality in a more and more phenomenology way. You understand everything is constructed by its environment. If this is you, join us.
 ## Theme Camp
 
 Discover a realm where emotions and thoughts are not just fleeting experiences, but windows into the depths of reality. In this theme camp, you embark on a transformative journey, where the ordinary becomes extraordinary through the lens of phenomenology. Here, you'll realize that everything around you is shaped by its environment, and in turn, shapes you.
