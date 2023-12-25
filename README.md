@@ -2,7 +2,7 @@
 
 Wamotopia is a pop-up city, a prototype society, co-created by the participants of Wamotopia – the Wamians. It aims to create a future-oriented, collaborative culture, leveraging technological advancements and diverse ideologies to overcome global challenges and to create a positive-externality oriented, prosperous society for humanity.
 
-Wamotopia is a collaborative cultural emergence where participants co-build and co-create Wacas(theme camps), fostering a community-driven environment of spontaneity, creativity, and diverse expressions.
+Wamotopia is also a collaborative cultural emergence where participants co-build and co-create Wacas(theme camps), fostering a community-driven environment of spontaneity, creativity, and diverse expressions.
 
 
 [Wamotopia Manifesto v1.0 alpha.1](wamotopia_v1.0.md)
