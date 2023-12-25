@@ -4,11 +4,13 @@
 
 ## WACAs (Theme Camps)
 
-[Slay Moloch Theme Camp](slay_moloch_camp_v0.8.md)
+A Waca, at its heart, is a Theme Camp, a Schilling Point, a vibe of positive-externality where the Wamo culture emergence happens that connect and develop deeper relationships with those you are aligned with. Where Wamo’s future oriented culture springs to life, brought into being by the gathering of Wamians. It's a sanctuary for connection, where Wamians converge to engage in various activities and events. It's a realm of self-expression and communal joy, a place where creativity and collaboration come alive.
 
-[Luminous Connections Theme Camp](luminous_connections_camp_v0.7.md)
+[Slay Moloch Theme Camp](Wacas/slay_moloch_camp_v0.8.md)
 
-[Mirrors of Mindscapes Waca](Mirrors_of_Mindscapes_Waca.md)
+[Luminous Connections Theme Camp](Wacas/luminous_connections_camp_v0.7.md)
+
+[Mirrors of Mindscapes Waca](Wacas/Mirrors_of_Mindscapes_Waca.md)
 
 ## Walues
 **Positive-Externality:** We believe in the power of actions that extend beyond individual benefit, creating a ripple effect of positive impact in our community and environment. Our commitment is to cultivate a culture where every decision and action contributes to the greater good, fostering a sustainable and thriving world for all.
