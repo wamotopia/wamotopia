@@ -1,6 +1,6 @@
 # Veils of Perception
 
-If we find joy in life, we see the world as good,
+If we blissed in joy, we see the world as good,
 
 No urge for change perceived in such a mood.
 

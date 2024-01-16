@@ -1,19 +1,14 @@
 # Wamotopia 
 
-Wamotopia is a pop-up city, a prototype society, co-created by the participants of Wamotopia – the Wamians. It aims to create a future-oriented, collaborative culture, leveraging technological advancements and diverse ideologies to overcome global challenges and to create a positive-externality oriented, prosperous society for humanity.
+Wamotopia is a pop-up city, collaborative cultural emergence, co-created by the participants of Wamotopia – the Wamians. It aims to create a future-oriented, collaborative culture, leveraging technological advancements and diverse ideologies to overcome global challenges and to create a positive-externality oriented, prosperous society for humanity.
 
-Wamotopia is also a collaborative cultural emergence where participants co-build and co-create Wacas(theme camps), fostering a community-driven environment of spontaneity, creativity, and diverse expressions.
-
-
-[Wamotopia Manifesto v1.0 alpha.1](wamotopia_v1.0.md)
+[Wamotopia Manifesto v1.0 alpha.1](manifestos/wamotopia_v1.0.md)
 
 ## WACAs (Theme Camps)
 
-A Waca, at its heart, is a Theme Camp, a Schilling Point, a vibe of positive-externality where the Wamo culture emergence happens that connect and develop deeper relationships with those you are aligned with. Where Wamo’s future oriented culture springs to life, brought into being by the gathering of Wamians. It's a sanctuary for connection, where Wamians converge to engage in various activities and events. It's a realm of self-expression and communal joy, a place where creativity and collaboration come alive.
+A Waca, at its heart, is burning man Theme Camp like, a Schilling Point, a vibe of positive-externality where the Wamo culture emergence happens that connect and develop deeper relationships with those you are aligned with. Where Wamo’s future oriented culture springs to life, brought into being by the gathering of Wamians. It's a sanctuary for connection, where Wamians converge to engage in various activities and events. It's a realm of self-expression and communal joy, a place where creativity and collaboration come alive.
 
 [Slay Moloch Theme Camp](Wacas/slay_moloch_camp_v0.8.md)
-
-[Luminous Connections Theme Camp](Wacas/luminous_connections_camp_v0.7.md)
 
 [Mirrors of Mindscapes Waca](Wacas/Mirrors_of_Mindscapes_Waca.md)
 

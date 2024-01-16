@@ -3,7 +3,7 @@ Juniors, seniors in positions,
 
 Poor and rich in capitals.
 
-And you are always expected to ascend,
+Always expected to ascend,
 
 A narrative anchoring your reality,
 
@@ -19,7 +19,7 @@ You forget your dreams,
 
 Forget that you can better the world,
 
-That we can aim for the stars.
+Aim for the stars.
 
 Reality is but a manifestation
 
